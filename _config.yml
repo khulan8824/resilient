@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+name: Khulan Batbayar
+description: Resilient Collaborative performance sensing algorithm for the gateway selection
+url: "http://khulan8824.github.io/resilient"
+
+exclude: {LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock}
+permalink: pretty
